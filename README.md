@@ -13,5 +13,4 @@ I am a beginner in IT.
 
 ## My Progress
 This is my first GitHub project.
-## Branch Test
-Testing pull request from my-first-project branch.
+
