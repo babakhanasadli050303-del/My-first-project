@@ -16,3 +16,10 @@ This is my first GitHub project.
 
 ## Prosta Kayd et 
 men calisiram ki yaxsi olsun 
+## My First Branch
+
+I created my first branch on GitHub.
+
+I am learning how branches work.
+
+This is my first experiment with branches!
