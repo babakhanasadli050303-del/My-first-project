@@ -14,3 +14,5 @@ I am a beginner in IT.
 ## My Progress
 This is my first GitHub project.
 
+## Prosta Kayd et 
+men calisiram ki yaxsi olsun 
