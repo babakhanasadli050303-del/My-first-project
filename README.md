@@ -13,5 +13,4 @@ I am a beginner in IT.
 
 ## My Progress
 This is my first GitHub project.
-## My Branch Test
-This is a new line added from the feature branch.
+
